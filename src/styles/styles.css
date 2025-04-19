@@ -445,7 +445,7 @@ button {
     content: "\2714";
     color: var(--checkbox-mark-color);
     position: absolute;
-    top: -4px;
+    top: -3px;
     left: 0;
     width: 0px;
     height: 0px;
@@ -770,6 +770,10 @@ button {
 
     .checkbox-label {
         font-size: 13px;
+    }
+
+    .checkbox-input::after {
+        top: -5px;
     }
 
     .footer__bottom {
