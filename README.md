@@ -6,8 +6,6 @@
     </a>
 </p>
 
-[(https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
-
 <p align="center">Тестовое задание от MSTech L.L.C-FZ</p>
 
 ## 🔗 Github Pages
@@ -22,16 +20,17 @@
     <img height="270px" src="" />
 </div>
 <div align="center">
-    <img height="270px" src="https://github.com/safym/layout-store/assets/99616798/9b0841d1-39b8-4fe2-b0b3-51b7d14a922b" />
-    <img height="270px" src="https://github.com/safym/layout-store/assets/99616798/c9fbf554-76ae-4d3c-8235-50e3a8ffb5e5" />
+    <img height="270px" src="" />
+    <img height="270px" src="" />
 </div>
+
 
 ### 📱 Mobile
 <div align="center">
-    <img height="350px" src="https://github.com/safym/layout-store/assets/99616798/e689e6ab-7e12-420a-a1d7-4628b0f69c7a" />
-    <img height="350px" src="https://github.com/safym/layout-store/assets/99616798/d7f92c15-df59-4917-95f3-89795ac51a73" />
-    <img height="350px" src="https://github.com/safym/layout-store/assets/99616798/ca39f515-6a94-4eb5-8ae0-9a965d268efb" />
-    <img height="350px" src="https://github.com/safym/layout-store/assets/99616798/fb235361-396b-4370-90fe-9902510f1c1f" />
+    <img height="350px" src="" />
+    <img height="350px" src="" />
+    <img height="350px" src="" />
+    <img height="350px" src="" />
 </div>
 
 ## Особенности
