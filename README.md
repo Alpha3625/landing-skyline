@@ -13,7 +13,6 @@
 [Live link](https://alpha3625.github.io/landing-skyline/)
 
 ## 📸 Screenshots
-...
 
 ### 💻 Desktop
 <div align="center">
