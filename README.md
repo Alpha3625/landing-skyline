@@ -15,11 +15,9 @@
 ## 📸 Screenshots
 
 ### 💻 Desktop
-<div align="center">
+<div align="center" style="display: flex; flex-wrap="wrap"; gap: "10px";">
     <img height="270px" src="https://github.com/user-attachments/assets/8857e7cc-f07f-4811-b0e8-cb34c2c41473" />
     <img height="270px" src="https://github.com/user-attachments/assets/d681fb19-5d04-4f30-8cc5-5363db542349" />
-</div>
-<div align="center">
     <img height="270px" src="https://github.com/user-attachments/assets/86e9f76f-8b99-46f6-86bd-40688f1f06c1" />
 </div>
 
