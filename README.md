@@ -16,25 +16,19 @@
 
 ### 💻 Desktop
 <div align="center">
-    <img height="270px" src="" />
-    <img height="270px" src=" " />
+    <img height="270px" src="https://github.com/user-attachments/assets/1b126df0-6812-4821-b547-ff097b4a23c0" />
+    <img height="270px" src="https://github.com/user-attachments/assets/d681fb19-5d04-4f30-8cc5-5363db542349" />
+    <img height="270px" src="https://github.com/user-attachments/assets/9d3fc002-7683-4b49-bacd-ef99066a3742" />
 </div>
-<div align="center">
-    <img height="270px" src="" />
-    <img height="270px" src="" />
-</div>
-
 
 ### 📱 Mobile
 <div align="center">
-    <img height="350px" src="" />
-    <img height="350px" src="" />
-    <img height="350px" src="" />
-    <img height="350px" src="" />
+    <img height="350px" src="https://github.com/user-attachments/assets/8857e7cc-f07f-4811-b0e8-cb34c2c41473" />
+    <img height="350px" src="https://github.com/user-attachments/assets/86e9f76f-8b99-46f6-86bd-40688f1f06c1" />
 </div>
 
 ## Особенности
-- Адаптивная вёрстка под мобильные устройства
+- Адаптивная-кроссбраузерная вёрстка под мобильные устройства
 - Методология БЭМ
 
 ## Дизайн
