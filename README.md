@@ -16,9 +16,11 @@
 
 ### 💻 Desktop
 <div align="center">
-    <img width="450px" height="270px" src="https://github.com/user-attachments/assets/8857e7cc-f07f-4811-b0e8-cb34c2c41473"/>
-    <img width="450px" height="270px" src="https://github.com/user-attachments/assets/d681fb19-5d04-4f30-8cc5-5363db542349"/>
-    <img width="450px" height="270px" src="https://github.com/user-attachments/assets/86e9f76f-8b99-46f6-86bd-40688f1f06c1"/>
+    <img width="400px" height="270px" src="https://github.com/user-attachments/assets/8857e7cc-f07f-4811-b0e8-cb34c2c41473"/>
+    <img width="400px" height="270px" src="https://github.com/user-attachments/assets/d681fb19-5d04-4f30-8cc5-5363db542349"/>
+</div>
+<div align="center">
+    <img width="400px" height="270px" src="https://github.com/user-attachments/assets/86e9f76f-8b99-46f6-86bd-40688f1f06c1"/>
 </div>
 
 ### 📱 Mobile
