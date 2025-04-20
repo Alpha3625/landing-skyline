@@ -17,7 +17,7 @@
 ### 💻 Desktop
 <div align="center">
     <img height="270px" src="" />
-    <img height="270px" src="" />
+    <img height="270px" src=" " />
 </div>
 <div align="center">
     <img height="270px" src="" />
