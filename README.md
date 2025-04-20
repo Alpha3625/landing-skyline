@@ -16,15 +16,15 @@
 
 ### 💻 Desktop
 <div align="center">
-    <img height="270px" src="https://github.com/user-attachments/assets/8857e7cc-f07f-4811-b0e8-cb34c2c41473" style="margin: 5px;" />
-    <img width="300px" height="270px" src="https://github.com/user-attachments/assets/d681fb19-5d04-4f30-8cc5-5363db542349" style="margin: 5px;" />
-    <img height="270px" src="https://github.com/user-attachments/assets/86e9f76f-8b99-46f6-86bd-40688f1f06c1" style="margin: 5px;" />
+    <img height="270px" src="https://github.com/user-attachments/assets/8857e7cc-f07f-4811-b0e8-cb34c2c41473" style="margin: 10px;" />
+    <img width="1000px" height="270px" src="https://github.com/user-attachments/assets/d681fb19-5d04-4f30-8cc5-5363db542349" style="margin: 10px;" />
+    <img height="270px" src="https://github.com/user-attachments/assets/86e9f76f-8b99-46f6-86bd-40688f1f06c1" style="margin: 10px;" />
 </div>
 
 ### 📱 Mobile
 <div align="center">
-    <img height="350px" src="https://github.com/user-attachments/assets/1b126df0-6812-4821-b547-ff097b4a23c0" style="margin: 5px" />
-    <img height="350px" src="https://github.com/user-attachments/assets/9d3fc002-7683-4b49-bacd-ef99066a3742" style="margin: 5px" />
+    <img height="350px" src="https://github.com/user-attachments/assets/1b126df0-6812-4821-b547-ff097b4a23c0" style="margin: 10px" />
+    <img height="350px" src="https://github.com/user-attachments/assets/9d3fc002-7683-4b49-bacd-ef99066a3742" style="margin: 10px" />
 </div>
 
 ## Особенности
