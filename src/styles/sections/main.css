@@ -12,6 +12,8 @@
     -ms-flex-pack: justify;
     justify-content: space-between;
     gap: 50px 100px;
+    max-width: 2000px;
+    margin: 0 auto;
 }
 
 .main__content {

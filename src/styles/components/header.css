@@ -27,9 +27,16 @@
     gap: 0 205px;
 }
 
+@media screen and (min-width: 2496px) {
+    .header__inner {
+        max-width: 2000px;
+        margin: 0 auto;
+    }
+}
+
 
 @media screen and (max-width: 1530px) {
-    .header__inner {
+    .header {
         gap: 0 50px;
     }
 }
