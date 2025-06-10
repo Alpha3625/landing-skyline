@@ -1,5 +1,16 @@
 .form-container {
-    background: var(--text-color-primary) url("../../assets/images/reception.jpeg") right no-repeat;
+    background-color: var(--text-color-primary);
+    background-image: 
+            -webkit-image-set(url('../../assets/images/reception.webp') type('image/webp'),
+            url('../../assets/images/reception.jpeg') type('image/jpeg'));
+            
+    background-image: 
+            image-set(url('../../assets/images/reception.webp') type('image/webp'),
+            url('../../assets/images/reception.jpeg') type('image/jpeg'));
+
+    background-image: url('../../assets/images/reception.jpeg');
+    background-position: right;
+    background-repeat: no-repeat;
     background-size: 40% 100%;
     width: 100%;
     max-width: 1597px;
