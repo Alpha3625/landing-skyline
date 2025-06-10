@@ -25,6 +25,7 @@
         </div>
     </header>
     <main>
+        <div id="overlay"></div>
         <section class="main" id="home">
             <div class="main__inner">
                 <div class="main__content">
@@ -46,16 +47,18 @@
                     </ul>
                     <a class="order-btn" href="#contact">Consultation</a>
                 </div>
-                <div class="main__bg-img">
-                    <img src="./src/assets/images/modern-office.jpg" loading="lazy" alt="Modern-office">
-                </div>
+                <picture class="main__bg-img">
+                    <source srcset="./src/assets/images/modern-office.webp" type="image/webp" loading="lazy">
+                    <img src="./src/assets/images/modern-office.jpg" loading="lazy" alt="Modern office">
+                </picture>
             </div>
         </section>
         <section class="features" id="features">
             <div class="features__inner">
-                <div class="features__img-left">
+                <picture class="features__img-left">
+                    <source srcset="./src/assets/images/office-img-1.webp" type="image/webp" loading="lazy">
                     <img src="./src/assets/images/office-img-1.jpg" loading="lazy" alt="Office">
-                </div>
+                </picture>
                 <div class="features__center-block">
                     <ul class="features__list">
                         <li class="features__list-item">
@@ -98,9 +101,10 @@
                     </ul>
                     <a class="order-btn" href="#contact">Consultation</a>
                 </div>
-                <div class="features__img-right">
+                <picture class="features__img-right">
+                    <source srcset="./src/assets/images/office-img-2.webp" type="image/webp" loading="lazy">
                     <img src="./src/assets/images/office-img-2.jpg" loading="lazy" alt="Office">
-                </div>
+                </picture>
             </div>
         </section>
         <section class="consultation" id="contact">
